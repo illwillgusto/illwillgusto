@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a freelance web developer. <br>I am a web developer or front end developer, with experience in UX/UI design as well.<br>I'm currently learning Python.<br>Ask me about building responsive and interactive landing pages.<br>Fun fact about me is I also am a fashion designer. 
+I'm currently a freelance web developer. <br>I am a web developer and front-end developer, with experience in UX/UI design as well.<br>I'm currently learning Python.<br>Ask me about building responsive and interactive landing pages.<br>Fun fact about me is I also am a fashion designer. 
 
 
 ## 🌐 Socials:
